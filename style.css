@@ -14,3 +14,10 @@
 .first-part-btn-h1-2{
     text-align: center;
 }
+.first-part-btn{
+    width: 17rem;
+    height: 5rem;
+    text-align: center;
+    background-color: white;
+    border: 0cm;
+}
